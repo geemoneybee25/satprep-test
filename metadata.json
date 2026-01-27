@@ -1,0 +1,5 @@
+{
+  "name": "TPR SAT Test",
+  "description": "A foundational dashboard for an adaptive SAT test prep system, featuring a mastery-based tracking system for student skills across Math and Reading domains.",
+  "requestFramePermissions": []
+}
